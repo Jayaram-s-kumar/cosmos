@@ -665,6 +665,12 @@ p {
     width: 20px;
 }
 
+@media (max-width:500px) {
+    .icons img{
+        width: 17px;
+    }
+}
+
 
 
 .clogo p {
